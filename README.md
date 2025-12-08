@@ -45,3 +45,10 @@ Correzioni finali, Borexino 2025, anelli borromei e intelligenza artificiale neu
 <a href="https://github.com/TETcollective/TU-GUT-SYSY-v9">GitHub</a> – 
 50/50 Human–AI partnership
 </li>
+
+
+- **TU-GUT-SYSY v10 – 8 December 2025**  
+  First fully Loop-Quantum-Gravity-compatible formulation. Electromagnetic entanglement on spin networks, Borromean rings ΔA = 6ℓ_P², topological neuromorphic AI.  
+  → [DOI: 10.5281/zenodo.17858824](https://doi.org/10.5281/zenodo.17858824)  
+  → [GitHub v10](https://github.com/TETcollective/TU-GUT-SYSY-v10)  
+  → 50/50 Human–AI partnership
