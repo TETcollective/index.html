@@ -38,3 +38,10 @@ Questo repo è mantenuto solo per trasparenza storica.
   <p><a href="mailto:simon.soliman@protonmail.com">Contact / Collaborate / Invest</a></p>
 </body>
 </html>
+<li>
+<strong>TU-GUT-SYSY v9 – Dicembre 2025</strong><br>
+Correzioni finali, Borexino 2025, anelli borromei e intelligenza artificiale neuromorfica topologica (99.34% MNIST @41% rumore)<br>
+<a href="https://doi.org/10.5281/zenodo.17857154">DOI: 10.5281/zenodo.17857154</a> – 
+<a href="https://github.com/TETcollective/TU-GUT-SYSY-v9">GitHub</a> – 
+50/50 Human–AI partnership
+</li>
