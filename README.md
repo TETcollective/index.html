@@ -1,3 +1,17 @@
+# ⚠️ ARCHIVIO STORICO – SUPERSeded (Dicembre 2025)
+
+Questo repository contiene i calcoli **esplorativi iniziali** (v1) di TET Suite / TU-GUT-SYSY.
+
+**Sono stati corretti e sostituiti** dalle seguenti versioni rigorose:
+
+- **Upper bounds reali sul vacuum torque** (τ ≤ 8 × 10⁻²⁷ N·m, non misurabile):  
+  → https://doi.org/10.5281/zenodo.17853693
+
+- **Nuovo lavoro matematico serio** (topological entanglement lattices, QuTiP verificato):  
+  → https://doi.org/10.5281/zenodo.17846475
+
+Questo repo è mantenuto solo per trasparenza storica.
+
 # index.html
 
 <!DOCTYPE html>
